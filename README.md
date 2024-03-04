@@ -1,4 +1,4 @@
-##### Codecademy Dictionaries - Medical Insurance Project
+### Codecademy Dictionaries - Medical Insurance Project
 The purpose of this project wais to create a program that organizes and updates medical records efficiently. 
 In this project, I used my new knowledge of Python dictionaries to create a database of medical records for patients.
 
